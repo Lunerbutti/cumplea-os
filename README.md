@@ -1,2 +1,2 @@
-# cumplea-os
+# cumple
 Invitacion de cumpleaños
